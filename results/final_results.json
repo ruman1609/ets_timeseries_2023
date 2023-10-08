@@ -1,0 +1,102 @@
+{
+    "arimaFD1": {
+        "reward_low_FN_rate": 21.302438182204725,
+        "reward_low_FP_rate": 16.318341494869635,
+        "standard": 19.453657273307087
+    },
+    "arimaFD2": {
+        "reward_low_FN_rate": 57.604262649523754,
+        "reward_low_FP_rate": 0.0,
+        "standard": 45.45811811221666
+    },
+    "arimaFD3": {
+        "reward_low_FN_rate": 56.23625381502778,
+        "reward_low_FP_rate": 14.181283978254555,
+        "standard": 44.699208308748574
+    },
+    "arimaFD4": {
+        "reward_low_FN_rate": 24.121068893026436,
+        "reward_low_FP_rate": 21.394936645311127,
+        "standard": 22.819534374022403
+    },
+    "arimaFD5": {
+        "reward_low_FN_rate": 36.93280600906031,
+        "reward_low_FP_rate": 13.571694053278522,
+        "standard": 30.39920901359047
+    },
+    "arimaFD6": {
+        "reward_low_FN_rate": 14.668837063735635,
+        "reward_low_FP_rate": 0.0,
+        "standard": 9.072221112844808
+    },
+    "contextOSE": {
+        "reward_low_FN_rate": 73.18167250416667,
+        "reward_low_FP_rate": 66.97713919047413,
+        "standard": 69.89956896844828
+    },
+    "earthgeckoSkyline": {
+        "reward_low_FN_rate": 63.80014835063793,
+        "reward_low_FP_rate": 46.19530112566379,
+        "standard": 58.20022252594827
+    },
+    "expose": {
+        "reward_low_FN_rate": 26.920946783333335,
+        "reward_low_FP_rate": 3.1909311068965485,
+        "standard": 16.43666922426724
+    },
+    "htmjava": {
+        "reward_low_FN_rate": 70.42407766520115,
+        "reward_low_FP_rate": 53.25694971610345,
+        "standard": 65.54990960125
+    },
+    "knncad": {
+        "reward_low_FN_rate": 64.81232086001505,
+        "reward_low_FP_rate": 43.40851703291233,
+        "standard": 57.99434335898808
+    },
+    "null": {
+        "reward_low_FN_rate": 0.0,
+        "reward_low_FP_rate": 0.0,
+        "standard": 0.0
+    },
+    "numenta": {
+        "reward_low_FN_rate": 74.3202443095115,
+        "reward_low_FP_rate": 63.11684160219828,
+        "standard": 70.10105611943965
+    },
+    "numentaTM": {
+        "reward_low_FN_rate": 69.18506822906035,
+        "reward_low_FP_rate": 56.665308225043105,
+        "standard": 64.55346441254311
+    },
+    "random": {
+        "reward_low_FN_rate": 25.876351314080456,
+        "reward_low_FP_rate": 5.763682319827586,
+        "standard": 16.831768350517237
+    },
+    "randomCutForest": {
+        "reward_low_FN_rate": 59.74876476310345,
+        "reward_low_FP_rate": 38.360772142413786,
+        "standard": 51.717054557073276
+    },
+    "relativeEntropy": {
+        "reward_low_FN_rate": 58.84229239324713,
+        "reward_low_FP_rate": 47.598351759844824,
+        "standard": 54.64274893469828
+    },
+    "skyline": {
+        "reward_low_FN_rate": 44.4810173429885,
+        "reward_low_FP_rate": 27.08121005969828,
+        "standard": 35.687043255862065
+    },
+    "twitterADVec": {
+        "reward_low_FN_rate": 53.50107495100574,
+        "reward_low_FP_rate": 33.610051641206894,
+        "standard": 47.06195725408189
+    },
+    "windowedGaussian": {
+        "reward_low_FN_rate": 47.4100271583046,
+        "reward_low_FP_rate": 20.86798582474138,
+        "standard": 39.649523496077585
+    }
+}
