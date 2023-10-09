@@ -1,33 +1,33 @@
 {
     "arimaFD1": {
-        "reward_low_FN_rate": 21.302438182204725,
-        "reward_low_FP_rate": 16.318341494869635,
-        "standard": 19.453657273307087
+        "reward_low_FN_rate": 60.09698306182626,
+        "reward_low_FP_rate": 17.46425993352194,
+        "standard": 48.33512976515318
     },
     "arimaFD2": {
-        "reward_low_FN_rate": 57.604262649523754,
+        "reward_low_FN_rate": 60.46402512946426,
         "reward_low_FP_rate": 0.0,
-        "standard": 45.45811811221666
+        "standard": 48.02362390109293
     },
     "arimaFD3": {
-        "reward_low_FN_rate": 56.23625381502778,
-        "reward_low_FP_rate": 14.181283978254555,
-        "standard": 44.699208308748574
+        "reward_low_FN_rate": 2.032379892290204,
+        "reward_low_FP_rate": 1.0444985859828269,
+        "standard": 1.7554663901594567
     },
     "arimaFD4": {
-        "reward_low_FN_rate": 24.121068893026436,
-        "reward_low_FP_rate": 21.394936645311127,
-        "standard": 22.819534374022403
+        "reward_low_FN_rate": 8.955492649143654,
+        "reward_low_FP_rate": 0.0,
+        "standard": 4.812549318543066
     },
     "arimaFD5": {
-        "reward_low_FN_rate": 36.93280600906031,
-        "reward_low_FP_rate": 13.571694053278522,
-        "standard": 30.39920901359047
+        "reward_low_FN_rate": 40.9572643285122,
+        "reward_low_FP_rate": 17.434754072741924,
+        "standard": 34.2807240789752
     },
     "arimaFD6": {
-        "reward_low_FN_rate": 14.668837063735635,
+        "reward_low_FN_rate": 14.371092646258854,
         "reward_low_FP_rate": 0.0,
-        "standard": 9.072221112844808
+        "standard": 6.470432072836588
     },
     "contextOSE": {
         "reward_low_FN_rate": 73.18167250416667,

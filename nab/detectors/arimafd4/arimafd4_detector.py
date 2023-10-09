@@ -17,7 +17,7 @@ class ArimaFD4Detector(AnomalyDetector):
         ts = ts.astype({"value": float})
         ad = oa.Anomaly_detection(ts)
         ad.generate_tensor(ar_order=ar_order)
-        ts_anomaly = ad.proc_tensor(No_metric=4)
+        ts_anomaly = ad.proc_tensor(metric_index=4, window=int(ts.shape[0]/2))
         ts_anomaly = ts_anomaly.reset_index()
         
         ans = self.dataSet.data.copy()
